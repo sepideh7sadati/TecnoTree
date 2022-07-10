@@ -23,6 +23,7 @@ public class Comment implements Serializable {
     private Long postId;
     private String name;
     private String email;
+    @Column(columnDefinition = "longtext")
     private String body;
 
     @ManyToOne(fetch = FetchType.LAZY)
