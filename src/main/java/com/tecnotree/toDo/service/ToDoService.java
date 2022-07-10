@@ -1,6 +1,6 @@
-package com.tecnotree.ToDo.service;
+package com.tecnotree.toDo.service;
 
-import com.tecnotree.ToDo.dto.ToDoDto;
+import com.tecnotree.toDo.dto.ToDoDto;
 
 import java.util.List;
 

@@ -1,12 +1,9 @@
-package com.tecnotree.ToDo;
+package com.tecnotree.toDo;
 
 
-import com.tecnotree.ToDo.dto.ToDoDto;
-import com.tecnotree.ToDo.service.ToDoService;
-import com.tecnotree.comment.dto.CommentDto;
-import com.tecnotree.post.dto.PostDto;
+import com.tecnotree.toDo.dto.ToDoDto;
+import com.tecnotree.toDo.service.ToDoService;
 import io.swagger.annotations.ApiOperation;
-import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

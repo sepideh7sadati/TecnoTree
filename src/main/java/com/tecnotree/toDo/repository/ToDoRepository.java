@@ -1,4 +1,4 @@
-package com.tecnotree.ToDo.repository;
+package com.tecnotree.toDo.repository;
 
 import com.tecnotree.entities.ToDo;
 import org.springframework.data.jpa.repository.JpaRepository;

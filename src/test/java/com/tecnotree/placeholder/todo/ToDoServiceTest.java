@@ -1,10 +1,10 @@
 package com.tecnotree.placeholder.todo;
 
 
-import com.tecnotree.ToDo.dto.ToDoDto;
-import com.tecnotree.ToDo.dto.ToDoDtoMapper;
-import com.tecnotree.ToDo.repository.ToDoRepository;
-import com.tecnotree.ToDo.service.ToDoServiceImpl;
+import com.tecnotree.toDo.dto.ToDoDto;
+import com.tecnotree.toDo.dto.ToDoDtoMapper;
+import com.tecnotree.toDo.repository.ToDoRepository;
+import com.tecnotree.toDo.service.ToDoServiceImpl;
 import com.tecnotree.entities.ToDo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

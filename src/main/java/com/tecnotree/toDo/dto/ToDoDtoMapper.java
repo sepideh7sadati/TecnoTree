@@ -1,4 +1,4 @@
-package com.tecnotree.ToDo.dto;
+package com.tecnotree.toDo.dto;
 
 
 import com.tecnotree.entities.ToDo;

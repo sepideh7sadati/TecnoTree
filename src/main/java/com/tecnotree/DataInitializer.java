@@ -1,6 +1,6 @@
 package com.tecnotree;
 
-import com.tecnotree.ToDo.repository.ToDoRepository;
+import com.tecnotree.toDo.repository.ToDoRepository;
 import com.tecnotree.client.ApiClient;
 import com.tecnotree.client.map.CommentClientDtoMapper;
 import com.tecnotree.client.map.PostClientDtoMapper;
