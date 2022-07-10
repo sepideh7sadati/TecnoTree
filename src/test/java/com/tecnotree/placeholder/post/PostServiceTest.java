@@ -1,7 +1,7 @@
 package com.tecnotree.placeholder.post;
 
 
-import com.tecnotree.entities.Post;
+import com.tecnotree.post.entity.Post;
 import com.tecnotree.exception.Message;
 import com.tecnotree.exception.PostException;
 import com.tecnotree.post.dto.PostDto;

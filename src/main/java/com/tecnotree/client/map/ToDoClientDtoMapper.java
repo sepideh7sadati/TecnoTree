@@ -1,7 +1,7 @@
 package com.tecnotree.client.map;
 
 import com.tecnotree.client.dtocilent.TodosClientDto;
-import com.tecnotree.entities.ToDo;
+import com.tecnotree.toDo.entity.ToDo;
 import org.mapstruct.Mapper;
 
 import java.util.List;

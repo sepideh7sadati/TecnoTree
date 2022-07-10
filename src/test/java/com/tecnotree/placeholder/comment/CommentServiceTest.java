@@ -5,7 +5,7 @@ import com.tecnotree.comment.dto.CommentDtoMapper;
 import com.tecnotree.comment.dto.CommentRequestDto;
 import com.tecnotree.comment.reopsitory.CommentRepository;
 import com.tecnotree.comment.service.CommentServiceImpl;
-import com.tecnotree.entities.Comment;
+import com.tecnotree.comment.entity.Comment;
 import com.tecnotree.exception.CommentException;
 import com.tecnotree.exception.Message;
 import org.junit.jupiter.api.Assertions;

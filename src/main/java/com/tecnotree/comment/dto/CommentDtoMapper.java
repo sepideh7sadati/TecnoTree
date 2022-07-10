@@ -1,6 +1,6 @@
 package com.tecnotree.comment.dto;
 
-import com.tecnotree.entities.Comment;
+import com.tecnotree.comment.entity.Comment;
 import org.mapstruct.Mapper;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.tecnotree.client.map;
 
 import com.tecnotree.client.dtocilent.PostClientDto;
-import com.tecnotree.entities.Post;
+import com.tecnotree.post.entity.Post;
 import org.mapstruct.Mapper;
 
 import java.util.List;

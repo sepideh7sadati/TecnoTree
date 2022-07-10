@@ -1,6 +1,7 @@
-package com.tecnotree.entities;
+package com.tecnotree.comment.entity;
 
 
+import com.tecnotree.post.entity.Post;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 

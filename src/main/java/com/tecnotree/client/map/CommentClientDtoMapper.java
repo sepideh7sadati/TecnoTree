@@ -1,7 +1,7 @@
 package com.tecnotree.client.map;
 
 import com.tecnotree.client.dtocilent.CommentClientDto;
-import com.tecnotree.entities.Comment;
+import com.tecnotree.comment.entity.Comment;
 import org.mapstruct.Mapper;
 
 import java.util.List;

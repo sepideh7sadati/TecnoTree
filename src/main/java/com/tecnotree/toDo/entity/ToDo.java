@@ -1,4 +1,4 @@
-package com.tecnotree.entities;
+package com.tecnotree.toDo.entity;
 
 
 import lombok.AllArgsConstructor;

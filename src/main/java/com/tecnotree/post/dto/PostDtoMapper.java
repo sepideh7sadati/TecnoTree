@@ -1,6 +1,6 @@
 package com.tecnotree.post.dto;
 
-import com.tecnotree.entities.Post;
+import com.tecnotree.post.entity.Post;
 import org.mapstruct.Mapper;
 
 import java.util.List;

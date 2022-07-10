@@ -5,7 +5,7 @@ import com.tecnotree.toDo.dto.ToDoDto;
 import com.tecnotree.toDo.dto.ToDoDtoMapper;
 import com.tecnotree.toDo.repository.ToDoRepository;
 import com.tecnotree.toDo.service.ToDoServiceImpl;
-import com.tecnotree.entities.ToDo;
+import com.tecnotree.toDo.entity.ToDo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

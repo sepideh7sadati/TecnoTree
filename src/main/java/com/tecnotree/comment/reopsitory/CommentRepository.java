@@ -1,6 +1,6 @@
 package com.tecnotree.comment.reopsitory;
 
-import com.tecnotree.entities.Comment;
+import com.tecnotree.comment.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
